@@ -1,0 +1,1 @@
+class MWTDPawn extends AOCPawn;
